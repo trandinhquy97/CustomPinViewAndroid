@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CodeInputBox" parent="@style/Widget.AppCompat.EditText">
+        <item name="android:layout_width">@dimen/tw_input_code_box_width</item>
+        <item name="android:layout_height">@dimen/tw_input_code_box_height</item>
+        <item name="android:background">@drawable/tw_input_code_box_background</item>
+        <item name="android:textColor">@color/text_black_color</item>
+        <item name="android:textColorHint">@color/text_hint_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:hint">@string/tw_code_input_hint</item>
+        <item name="android:inputType">number</item>
+        <item name="android:textSize">@dimen/tw_input_code_text_size</item>
+        <item name="android:maxLength">1</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:cursorVisible">false</item>
+        <item name="android:focusable">false</item>
+    </style>
+</resources>

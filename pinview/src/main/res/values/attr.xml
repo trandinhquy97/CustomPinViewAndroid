@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CommonCodeInput">
+        <attr name="codeDigits" format="enum">
+            <enum name="four" value="4" />
+            <enum name="six" value="6" />
+        </attr>
+        <attr name="inputMask" format="boolean" />
+    </declare-styleable>
+</resources>

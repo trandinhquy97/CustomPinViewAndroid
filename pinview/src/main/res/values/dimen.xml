@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tw_input_code_text_size">44dp</dimen>
+
+    <dimen name="tw_input_text_box_height">42dp</dimen>
+    <dimen name="tw_input_text_box_padding_horizontal">20dp</dimen>
+    <dimen name="tw_input_text_box_padding_horizontal_15dp">15dp</dimen>
+
+    <dimen name="tw_input_code_box_width">55dp</dimen>
+    <dimen name="tw_input_code_box_height">76dp</dimen>
+
+    <dimen name="tw_input_code_for_input_6_possible_box_width">44dp</dimen>
+    <dimen name="tw_input_code_for_input_6_possible_box_height">60dp</dimen>
+    <dimen name="tw_input_code_for_input_6_possible_text_size">36dp</dimen>
+</resources>
